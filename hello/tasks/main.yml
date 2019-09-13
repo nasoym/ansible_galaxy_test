@@ -1,2 +1,5 @@
 ---
 # tasks file for hello
+- name: hello
+  debug: msg="hello world from module"
+
