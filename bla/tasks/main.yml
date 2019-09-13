@@ -1,0 +1,5 @@
+---
+# tasks file for bla
+- name: hello
+  debug: msg="bla bla blba blalalalaaa"
+
